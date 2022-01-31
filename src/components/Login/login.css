@@ -1,0 +1,14 @@
+.loginbtn-group{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+
+.loginbtn-group a{
+    text-decoration: none;
+}
+
+.loginbtn{
+    font-weight: 600;
+}
